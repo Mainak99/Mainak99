@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Mainak Biswas. 
+## Hey there, I am Mainak Biswas :)
 
 <img src= "images/creator_of_oasis.jpg">
 <!--
