@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Mainak Biswas
-<img src="My GitHub Photo">
+<img src="My GitHub Photo.jpg">
 <!--
 **Mainak99/Mainak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
