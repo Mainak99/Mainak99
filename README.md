@@ -1,6 +1,6 @@
 ## Hey there, I am Mainak Biswas :)
 
-<img src= "images/Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11jpg">
+<img src= "images/Arch, Ubuntu, Fedora -docker.png">
 <!--
 **Mainak99/Mainak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
