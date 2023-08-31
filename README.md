@@ -20,7 +20,7 @@ Java is the programming language that I am most proficient in. I am very passion
 <a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mainakcs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-### Skills
+###Skills
 
 
 <p align="left">
