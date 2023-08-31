@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ### Blockchain Developer 
 <p>I am very passionate about Web3 and Blockchain technology.</p> 
 *   🖥️  See my portfolio at [Website](http://mainakcs.github.io/)
-
-<a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mainakcs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/mainakcs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 
