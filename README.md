@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mainak Biswas</h1>
-<p aling="center">I am very passionate about Web3 and Blockchain technology.</p> 
+<h2 aling="center">I am very passionate about Web3 and Blockchain technology.</h2> 
 - 📝 I regularly write articles on [https://mainakbiswas.hashnode.dev/](https://mainakbiswas.hashnode.dev/)
 
 
