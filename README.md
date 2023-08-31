@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mainak Biswas</h1>
 <p>I am very passionate about Web3 and Blockchain technology.</p> 
-*   🖥️  See my portfolio at [Website](http://mainakcs.github.io/)
-
 - 📝 I regularly write articles on [https://mainakbiswas.hashnode.dev/](https://mainakbiswas.hashnode.dev/)
-
-
-<a href="https://hashnode.com/@mainakcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mainakcs" height="30" width="40" /></a>
 
 
 ### Skills
@@ -31,7 +26,5 @@ Here are some ideas to get you started:
 
 ### Socials
 
- <a href="https://mainakbiswas.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture>
-<a href="https://linkedin.com/in/@mainakcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mainakcs" height="30" width="40" /></a>
 <a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
