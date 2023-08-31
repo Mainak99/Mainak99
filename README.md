@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Mainak Biswas
-==============================Blockchain Developer--------------------I am Engineering Graduate, Java is the programming language that I am most proficient in . I am very passionate about Web3 and Blockchain technology.* 🖥️  See my portfolio at [Website](http://mainakcs.github.io/)* 🧠  I'm learning Blockchain and Web3
+## Hi 👋 I am Mainak Biswas
+#Blockchain Developer
+I am Engineering Graduate, Java is the programming language that I am most proficient in . I am very passionate about Web3 and Blockchain technology.* 🖥️  See my portfolio at [Website](http://mainakcs.github.io/)* 🧠  I'm learning Blockchain and Web3
 
 <a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mainakcs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
