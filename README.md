@@ -1,5 +1,3 @@
-## Hi there, I am Mainak Biswas :)
-
 <!-- <img src= "images/Arch, Ubuntu, Fedora -docker.png"> -->
 <!--
 **Mainak99/Mainak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
