@@ -25,13 +25,16 @@ Links- https://linktr.ee/mainakcs
 
 </p>
 
-
+<!--
 ### Socials
 
 <p align="left">
 <a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a><a href="https://linkedin.com/in/@mainakcs" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mainakcs" height="30" width="40" /></a>
 
 </p>
+-->
+
+
 
 <!----
 <a href="https://github.com/mainakcs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainakcs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
