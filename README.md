@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mainak Biswas</h1>
 <!-- <h2 align="center">I am very passionate about Web3 and Blockchain technology.</h2> -->
-https://linktr.ee/mainakcs
+Links- https://linktr.ee/mainakcs
 
 ### Skills
 
@@ -30,7 +30,6 @@ https://linktr.ee/mainakcs
 
 <a href="https://linkedin.com/in/@mainakcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mainakcs" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/@mainakcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@mainakcs" height="30" width="40" /></a>
 </p>
 
 <!----
