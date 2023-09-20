@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center">Hi 👋, I'm Mainak Biswas</h1> -->
 <!-- <h2 align="center">I am very passionate about Web3 and Blockchain technology.</h2> -->
-<a href ="https://linktr.ee/mainakcs"> Hi, I am Mainak. </a>
+<a href ="https://linktr.ee/mainakcs"> Hi, I am Mainak </a>
 
 ### Skills
 
